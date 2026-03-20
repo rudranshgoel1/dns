@@ -598,6 +598,7 @@ _vercel:
   - vc-domain-verify=status.hackclub.com,40b1b3248e4b63e61f56
   - vc-domain-verify=stemegypt.hackclub.com,0c6e30f2705906e4924c
   - vc-domain-verify=suceava.hackclub.com,b3c8f92fe1ba1f1f89f4
+  - vc-domain-verify=tabbed.hackclub.com,063de97913bbacc6a329
   - vc-domain-verify=teenhack.hackclub.com,83b35a519bc92ba8b94d
   - vc-domain-verify=ten-days-of-code.hackclub.com,f4bdc5d47d93a15aea28
   - vc-domain-verify=tlap.hackclub.com,fab392891c03fb490ae4
@@ -5243,6 +5244,10 @@ synthax:
 - ttl: 300
   type: CNAME
   value: qwel-exe.github.io.
+tabbed: # @stolen_username on slack, U0AD4996D1U
+- ttl: 300
+  type: CNAME
+  value: 58df182e8f4ec325.vercel-dns-017.com.
 tag:
 - ttl: 300
   type: CNAME
