@@ -914,6 +914,11 @@ swc: # akreamer@protonmail.com
     type: CNAME
     value: swcccwebsite.github.io.
 
+tabbed: # stolen_username on slack | U0AD4996D1U | rudranshgoel01@gmail.com
+- ttl: 600
+  type: A
+  value: 216.198.79.1
+
 tejas: # by tej
   ttl: 600
   type: CNAME
